@@ -1,0 +1,15 @@
+
+.skill {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    align-items: center;
+    background-color: white;
+    border: 1px solid;
+}
+.logo {
+    height: 50px;
+    width: 50px;
+    background-color: gray;
+}
